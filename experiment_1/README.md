@@ -21,5 +21,7 @@
 # LOGS:
 _Note -- epoch_avg_training_acc is is the average of acc from all batches for an epoch_
 ![Training Log](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_1_training_log.png)
-
+</br>Few epochs before and after max test acc</br>
+![Highlight Log](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_1_highlight_epochs.png)
+</br>Model Architecture</br>
 ![Model Architecture](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_1_model.png)
