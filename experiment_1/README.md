@@ -10,8 +10,8 @@
 
 # Results:
 * Parameters: 9,752
-* Best Training Accuracy: 98.95% (EPOCH 20)
-* Best Test Accuracy: 99.41% (EPOCH 15)
+* Best Training Accuracy: 98.87% (EPOCH 15)
+* Best Test Accuracy: 99.38% (EPOCH 13)       [99.41%   (EPOCH 16)]
  
 # Analysis:
 * The model showed a stable gap between train and test acc.
