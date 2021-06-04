@@ -3,10 +3,10 @@
   * Removing the LR Scheduler.
   * Reducing the Parameters to 10k. 
     * Reducing the size of initial Blocks.
-	* 8 channel (B1) >> 16 channel (B2) >> 8 channel (TB1 / B3) 
+		* 8 channel (B1) >> 16 channel (B2) >> 8 channel (TB1 / B3) 
     * No Changes made to the parameters in final blocks, as it is the understanding that there is more learning capacity required at final Blocks for this task.
-* 16 channel (B4) >> 16 channel (B5) >> 16 channel (B6) >>  16 channel (B7) >> 10 channel (out / B8)
-* The intention of this step is to have the correct Setup.
+		* 16 channel (B4) >> 16 channel (B5) >> 16 channel (B6) >>  16 channel (B7) >> 10 channel (out / B8)
+* The intention of this step is to have the correct Setup and Parameters.
 
 # Results:
 * Parameters: 9,752
