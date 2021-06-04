@@ -19,3 +19,8 @@ _Note -- batch_avg_training_acc is is the average of acc from all batches for an
 ![Highlight Log](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_2_highlight_epochs.png)
 </br>Model Architecture</br>
 ![Model Architecture](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_2_model.png)
+
+# ERRORS:
+</br>Errors in Labeling from Model 2</br>
+![part 1](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_2_mistakes_1.png)
+![part 2](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_2_mistakes_2.png)
