@@ -14,13 +14,13 @@
 * By removing Dropout and increasing learning rate to 0.20 the test accuracy has reached 99.42% stably.
 
 # LOGS:
-_Note -- batch_avg_training_acc is is the average of acc from all batches for an epoch_
-![Training Log](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_3_training_log.png)
+_Note -- batch_avg_training_acc is is the average of acc from all batches for an epoch_ 
+![Training Log](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_4_training_logs.png)
 </br>Few epochs before and after max test acc</br>
-![Highlight Log](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_3_highlight_epochs.png)
+![Highlight Log](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_4_highlight_epochs.png)
 
 # ERRORS:
 </br>Errors in Labeling from Model 2</br>
-![part 1](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_3_mistakes_1.png)
-![part 2](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_3_mistakes_2.png)
+![part 1](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_4_mistakes_1.png)
+![part 2](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/exp_4_mistakes_2.png)
 
