@@ -12,3 +12,4 @@ Achieved : 99.46% Accuracy on MNIST at 13th Epoch with 9958 parameters (experime
 ------
 
 ![Summary of Training Progress](https://github.com/askmuhsin/Session_5_assignment/blob/main/resources/summary_exp_5.png)
+_Note: LR on exp 5 starts at 0.02 (not 0.2)_
